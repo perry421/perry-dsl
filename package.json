@@ -1,0 +1,1 @@
+{"name":"@perry/dsl","version":"0.1.0","description":"Declarative SVG cover art language","main":"src/parser.js","license":"MIT"}
